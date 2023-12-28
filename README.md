@@ -1,6 +1,5 @@
 My name is Heesoo Jung.
 
-<br/>
 
 ### Projects 💻 
 - **[Snackpot](https://github.com/snack-exercise/snackpot-client) 소셜기반 운동습관 웹앱**, Frontend, (2023.06 ~ 2023.12), TypeScript, React, Next.js
