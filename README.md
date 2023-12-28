@@ -1,10 +1,10 @@
 My name is Heesoo Jung.
 
-### Project
+### Project 💻 
 
-### Education
+### Education 🎓
 
-### Experience
+### Experience 🔥
 
 <!--
 **heeeesoo/heeeesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
