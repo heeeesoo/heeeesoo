@@ -9,6 +9,8 @@ My name is Heesoo Jung.
 - SW Maestro 14th (2023.04 ~ 2023.12)
 - CEOS 신촌연합 IT개발동아리 16th (2022.09 ~ 2023.01)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
 <!--
 **heeeesoo/heeeesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
