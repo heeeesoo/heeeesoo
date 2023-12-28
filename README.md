@@ -1,11 +1,10 @@
 My name is Heesoo Jung.
 
 ### Project 💻 
------
-
-### Education 🎓
 
 ### Experience 🔥
+- SW Maestro 14th (2023.04 ~ 2023.12)
+- CEOS 신촌연합 IT개발동아리 16th (2022.09 ~ 2023.01)
 
 <!--
 **heeeesoo/heeeesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
