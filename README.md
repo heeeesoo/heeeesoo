@@ -8,7 +8,7 @@ My name is Heesoo Jung.
 
 ### Experience 🔥
 - 신한투자디지털프로아카데미 3기 (2023.12 ~ )
-- [SW Maestro 14th](https://www.swmaestro.org/sw/main/main.do) (2023.04 ~ 2023.12)
+- [SW Maestro](https://www.swmaestro.org/sw/main/main.do) 14th (2023.04 ~ 2023.12)
 - [CEOS](https://ceos-sinchon.com/) 신촌연합 IT개발동아리 16th (2022.09 ~ 2023.01)
 
   
