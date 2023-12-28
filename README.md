@@ -1,6 +1,7 @@
 My name is Heesoo Jung.
 
 ### Project 💻 
+-----
 
 ### Education 🎓
 
