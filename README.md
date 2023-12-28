@@ -1,8 +1,8 @@
 My name is Heesoo Jung.
 
 ### Project 💻 
-- Snackpot 소셜기반 운동습관 웹앱 서비스, Frontend 담당 (2023.06 ~ 2023.12)
-- Eatda 당뇨환자 식단관리 웹앱 서비스, Frontend 담당 (2022.12 ~ 2023.01)
+- [Snackpot](https://github.com/snack-exercise/snackpot-client) 소셜기반 운동습관 웹앱 서비스, Frontend 담당 (2023.06 ~ 2023.12)
+- [Eatda](https://github.com/eatda) 당뇨환자 식단관리 웹앱 서비스, Frontend 담당 (2022.12 ~ 2023.01)
 - [StudyDo](https://github.com/CSE-Final-Project/Front) 딥러닝 기반 공부시간 측정 웹 개발, Frontend 담당 (2021.09 ~ 2022.07)
 
 ### Experience 🔥
