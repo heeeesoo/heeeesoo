@@ -1,4 +1,5 @@
 My name is Heesoo Jung.
+
 <br/>
 
 ### Projects 💻 
@@ -8,6 +9,7 @@ My name is Heesoo Jung.
 - **[StudyDo](https://github.com/CSE-Final-Project/Front) 딥러닝 기반 공부시간 측정 웹**, Frontend, (2021.09 ~ 2022.07), JavaScript, React
 
 <br/>
+
 ### Experiences 🔥
 - 신한투자증권 프로 디지털 아카데미 3기 (2023.12 ~ )
 - [SW Maestro](https://www.swmaestro.org/sw/main/main.do) 14th (2023.04 ~ 2023.12)
