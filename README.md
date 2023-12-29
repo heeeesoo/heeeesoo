@@ -1,4 +1,17 @@
-My name is Heesoo Jung.
+Hi, my name is Heesoo Jung🤚
+
+Passionate software engineer interested in the Web, especially Frontend.
+<br>
+
+### Skills ⚒️
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  
+</p>
 
 
 ### Projects 💻 
@@ -7,7 +20,6 @@ My name is Heesoo Jung.
 - **[SisiColcol](https://github.com/sisicolcol/server) 시각장애인 헬퍼 매칭 앱**, Backend, (2022.08 ~ 2022.09), Node.js, Express 
 - **[StudyDo](https://github.com/CSE-Final-Project/Front) 딥러닝 기반 공부시간 측정 웹**, Frontend, (2021.09 ~ 2022.07), JavaScript, React
 
-<br/>
 
 ### Experiences 🔥
 - 신한투자증권 프로 디지털 아카데미 3기 (2023.12 ~ )
@@ -15,6 +27,9 @@ My name is Heesoo Jung.
 - [CEOS](https://ceos-sinchon.com/) 신촌연합 IT개발동아리 16th (2022.09 ~ 2023.01)
 
 <br/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeesoo&layout=compact)
                                                    
 
 <!--
