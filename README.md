@@ -28,11 +28,12 @@ Passionate software engineer interested in the Web, especially Frontend.
 
 <br/>
 
+<!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeesoo&layout=compact)
                                                    
 
-<!--
+
 **heeeesoo/heeeesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
