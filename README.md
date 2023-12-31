@@ -1,7 +1,8 @@
 Hi, my name is Heesoo Jung🤚
-
+<!--
 Passionate software engineer interested in the Web, especially Frontend.
 <br>
+-->
 
 ### Skills ⚒️
 <p>
