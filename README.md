@@ -1,6 +1,6 @@
 Heesoo Jung🤚
 
-주도성
+주도적으로 팀 내의 문제를 발견하고 자발적으로 개선하기
 
 <!--
 Hi, my name is Heesoo Jung🤚
@@ -33,6 +33,8 @@ Passionate software engineer interested in the Web, especially Frontend.
 - [CEOS](https://ceos-sinchon.com/) 신촌연합 IT개발동아리 16th (2022.09 ~ 2023.01)
 
 <br/>
+
+(수정 중..)
 
 <!--
 
