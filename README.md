@@ -1,14 +1,22 @@
+
 ## "주도성"
 
+Heesoo Jung🤚
+
+<!--
 안녕하세요, 정희수입니다🤚
 
 주도적인 자세로 팀 내의 부족한 부분을 발견하고, 문제가 발생하면 자발적으로 해결에 참여하는 개발자가 되겠습니다.<br>
+-->
 
+주도적으로 팀 내의 문제를 발견하고 자발적으로 개선하기
 
-<!--Hi, my name is Heesoo Jung🤚
+<!--
+Hi, my name is Heesoo Jung🤚
 
 Passionate software engineer interested in the Web, especially Frontend.-->
 <br>
+-->
 
 
 ### Skills ⚒️
@@ -36,11 +44,14 @@ Passionate software engineer interested in the Web, especially Frontend.-->
 
 <br/>
 
+(수정 중..)
+
+<!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeesoo&layout=compact)
                                                    
 
-<!--
+
 **heeeesoo/heeeesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
