@@ -1,6 +1,5 @@
 ### Heesoo Jung
 
-
 <!--
 안녕하세요, 정희수입니다🤚
 
@@ -9,7 +8,7 @@
 Hi, my name is Heesoo Jung🤚
 
 Passionate software engineer interested in the Web, especially Frontend.-->
-<br>
+
 
 
 
