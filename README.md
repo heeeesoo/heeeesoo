@@ -41,7 +41,7 @@ Passionate software engineer interested in the Web, especially Frontend.-->
 
 <br/>
 
-(수정 중..)
+
 
 <!--
 
