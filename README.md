@@ -24,10 +24,10 @@ Passionate software engineer interested in the Web, especially Frontend.-->
 
 
 ### Projects 💻 
-- **[Snackpot](https://github.com/snack-exercise/snackpot-client) 소셜기반 운동습관 웹앱**, Frontend, (2023.06 ~ 2023.12), TypeScript, React, Next.js
-- **[EatDa](https://github.com/eatda) 당뇨환자 식단관리 웹앱**, Frontend, (2022.12 ~ 2023.01), TypeScript, React, Next.js
-- **[SisiColcol](https://github.com/sisicolcol/server) 시각장애인 헬퍼 매칭 앱**, Backend, (2022.08 ~ 2022.09), Node.js, Express 
-- **[StudyDo](https://github.com/CSE-Final-Project/Front) 딥러닝 기반 공부시간 측정 웹**, Frontend, (2021.09 ~ 2022.07), JavaScript, React
+- [Snackpot](https://github.com/snack-exercise/snackpot-client) 소셜기반 운동습관 웹앱, Frontend, (2023.06 ~ 2023.12), TypeScript, React, Next.js
+- [EatDa](https://github.com/eatda) 당뇨환자 식단관리 웹앱, Frontend, (2022.12 ~ 2023.01), TypeScript, React, Next.js
+- [SisiColcol](https://github.com/sisicolcol/server) 시각장애인 헬퍼 매칭 앱, Backend, (2022.08 ~ 2022.09), Node.js, Express 
+- [StudyDo](https://github.com/CSE-Final-Project/Front) 딥러닝 기반 공부시간 측정 웹, Frontend, (2021.09 ~ 2022.07), JavaScript, React
 
 
 ### Experiences 🔥
