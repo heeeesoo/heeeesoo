@@ -12,7 +12,7 @@ Passionate software engineer interested in the Web, especially Frontend.-->
 
 
 
-### Skills ⚒️
+### Skills 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -23,14 +23,14 @@ Passionate software engineer interested in the Web, especially Frontend.-->
 </p>
 
 
-### Projects 💻 
+### Projects 
 - [Snackpot](https://github.com/snack-exercise/snackpot-client) 소셜기반 운동습관 웹앱, Frontend, (2023.06 ~ 2023.12), TypeScript, React, Next.js
 - [EatDa](https://github.com/eatda) 당뇨환자 식단관리 웹앱, Frontend, (2022.12 ~ 2023.01), TypeScript, React, Next.js
 - [SisiColcol](https://github.com/sisicolcol/server) 시각장애인 헬퍼 매칭 앱, Backend, (2022.08 ~ 2022.09), Node.js, Express 
 - [StudyDo](https://github.com/CSE-Final-Project/Front) 딥러닝 기반 공부시간 측정 웹, Frontend, (2021.09 ~ 2022.07), JavaScript, React
 
 
-### Experiences 🔥
+### Experiences
 - 신한투자증권 프로 디지털 아카데미 3기 (2023.12 ~ )
 - [SW Maestro](https://www.swmaestro.org/sw/main/main.do) 14th (2023.04 ~ 2023.12)
 - [CEOS](https://ceos-sinchon.com/) 신촌연합 IT개발동아리 16th (2022.09 ~ 2023.01)
